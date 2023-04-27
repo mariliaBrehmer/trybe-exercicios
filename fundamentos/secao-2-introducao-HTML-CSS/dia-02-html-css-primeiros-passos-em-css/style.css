@@ -1,0 +1,25 @@
+h2{
+    color: blueviolet;
+    font-size: 2em;
+}
+body{
+    background-color: bisque;
+    font-size: 20px;
+}
+p {
+    font-family: cursive, sans-serif;
+}
+#se-te-beijar{
+background-color: rgb(243, 144, 109);
+}
+#subtitulo{
+color: crimson;
+}
+.listas{
+background-color: aqua;
+color: rgb(172, 18, 126);
+font-weight: bold;
+font-style: italic;
+line-height: 30px;
+text-align: center;
+}
